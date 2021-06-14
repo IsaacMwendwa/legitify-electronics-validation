@@ -1,6 +1,6 @@
 # legitify-electronics-validation
 
-## Current App Link: Website Archived, Restoring soon
+### Current App Link: Website Archived, Restoring soon
 
 ## Introduction
 A Pre-puchase Electronics Validation Application using Serial Numbers
