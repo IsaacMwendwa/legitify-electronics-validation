@@ -1,6 +1,6 @@
 # legitify-electronics-validation
 
-## Current App Link: https://legitify.000webhostapp.com/
+## Current App Link: Website Archived, Restoring soon
 
 ## Introduction
 A Pre-puchase Electronics Validation Application using Serial Numbers
